@@ -9,5 +9,10 @@
     --sports-color:#f99500;
     --ent-color:#a66bbe;
     --tech-color:#009cff;
-    
+
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
