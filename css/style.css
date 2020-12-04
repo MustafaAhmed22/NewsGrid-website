@@ -82,6 +82,10 @@ p{
     margin: .5rem 0;
 }
 .card{
+    background: #fff;
+    padding: 1rem;
+}
+.cardd{
     color: #fff;
     padding: 1rem;
 }
@@ -262,4 +266,15 @@ padding: .5rem;
 }
 .l-heading{
     font-size: 3rem;
+}
+#article .meta{
+display: grid;
+justify-content: space-between;
+grid-template-columns: 6fr 1fr;
+align-items: center;
+background: #eee;
+padding: .5rem;
+}
+#article .meta .category {
+    margin-top: .4rem;
 }
